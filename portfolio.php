@@ -3,12 +3,13 @@
 
 ?>
 
-		
-<div class="container mt-2">
+<div class="container mt-2 py-5">
 
-	<div class="row text-lg-left">
+	<div class="portfolio-header">
 
 		<h1 class="display-4">Portfolio</h1>
+		
+		<p class="text-muted lead">Quickly build an effective pricing table for your potential customers with this Bootstrap example. It's built with default Bootstrap components and utilities with little customization.</p>
 
 	</div>
 
