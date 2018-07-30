@@ -25,7 +25,7 @@
 		  <li>Includes up to 3 retouched, digital files</li>
 		  <li>$25 for each additional digital file</li>
 		</ul>
-		<button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
+		<a class="btn btn-lg btn-block btn-primary" href="mailto:#&subject=Personal Portraits">Get started</a>
 	  </div>
 	</div>
 	<div class="card mb-4 box-shadow">
@@ -39,7 +39,7 @@
 		  <li>Includes up to 8 retouched, digital files (immediate family)</li>
 		  <li>$25 for each additional digital file</li>
 		</ul>
-		<button type="button" class="btn btn-lg btn-block btn-primary">Get started</button>
+		<a class="btn btn-lg btn-block btn-primary" href="mailto:#&subject=Family Portraits">Get started</a>
 	  </div>
 	</div>
 	<div class="card mb-4 box-shadow">
@@ -53,7 +53,7 @@
 		  <li>Includes up to 3 retouched, digital files</li>
 		  <li>$25 for each additional digital file</li>
 		</ul>
-		<button type="button" class="btn btn-lg btn-block btn-primary">Contact us</button>
+		<a class="btn btn-lg btn-block btn-primary" href="mailto:#&subject=Corporate Headshots">Get started</a>
 	  </div>
 	</div>
   </div>
